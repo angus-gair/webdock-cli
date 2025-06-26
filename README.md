@@ -1,3 +1,40 @@
+# Server Overview & Credentials
+
+## Overview
+
+- **Status**: ✅ Running  
+- **Monitoring**: HTTP ✅  
+- **Alias**: `thunder1.vps.webdock.cloud`  
+- **IPv4**: `193.181.208.69`  
+- **IPv6**: `2a0f:0f01:0208:46::0`  
+- **Web Root**: `/var/www/html`  
+
+### Server Details
+- **Location**: 🇪🇺 Europe / Denmark  
+- **Type**: KVM Virtual Machine  
+- **Profile**: NVMe Bit  
+- **Image**: Noble LEMP 8.3  
+
+---
+
+## Credentials
+
+### MySQL
+- **Admin (root) user**: `admin`  
+- **Admin password**: `9phzGHK7Abyc`  
+- **MySQL Database**: `thunder1`  
+- **Database user**: `thunder1`  
+- **Password**: `6nyvSDry2rAJ`  
+
+### FTP
+- **Username**: `thunder1`  
+- **Password**: `sTpmtayKw9q7`  
+
+### Shell
+- **Sudo user**: `admin`  
+- **Password**: `9MqAQDg6W69W`  
+
+
 # Webdock CLI
 <img src="assets/webdock-cli-logo.svg" alt="Webdock CLI Logo" style="width:100%;border-radius:10px">
 The official command-line interface for managing your Webdock.io resources.
